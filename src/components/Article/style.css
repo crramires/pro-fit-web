@@ -1,0 +1,14 @@
+.article {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 280px;
+  width: 100%;
+}
+.article p {
+  width: 100%;
+  max-width: 280px;
+  font-size: 14px;
+  text-align: justify;
+  word-wrap: break-word;
+}

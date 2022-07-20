@@ -1,0 +1,26 @@
+.wrapper-list {
+  display: flex;
+  gap: 15px;
+}
+.card-treinos {
+  max-width: 280px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 30px;
+  border: 1px solid #e5e5e5;
+}
+.container-pesquisa {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input-pesquisa {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 4px;
+  padding: 3px 10px;
+  outline: none;
+}
+.texto-vazio {
+  margin: 20px 5px;
+}
